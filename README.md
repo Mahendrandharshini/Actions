@@ -1,0 +1,2 @@
+# Actions
+CI CD practice
